@@ -5,3 +5,4 @@
 5. Preferably use jupyter notebook or Google colab to run the python notebook file.
 6. To install the dependencies use :
 	'sudo python3 -m pip install -r requirements.txt'
+7. The model is saved as 'my_model_scaled_3'
